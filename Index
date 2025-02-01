@@ -1,0 +1,75 @@
+index.html.!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CK BRANDZ - Your Trusted Service Provider</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <div class="logo">CK BRANDZ</div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>Reliable Services, Trusted Solutions</h1>
+        <p>Mobile Money | Printing | Photocopying | Phone Accessories | Repairs</p>
+        <a href="#contact" class="btn">Get in Touch</a>
+    </section>
+
+    <!-- About Us Section -->
+    <section id="about" class="about">
+        <h2>About CK BRANDZ</h2>
+        <p>At CK BRANDZ, we provide professional mobile money services, reliable phone repairs, high-quality printing, and a variety of phone accessories to meet your needs.</p>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="services">
+        <h2>Our Services</h2>
+        <div class="service-box">
+            <h3>Mobile Money Services</h3>
+            <p>Secure transactions, transfers, deposits, and bill payments.</p>
+        </div>
+        <div class="service-box">
+            <h3>Printing & Photocopying</h3>
+            <p>High-quality printing and fast photocopying for personal and business needs.</p>
+        </div>
+        <div class="service-box">
+            <h3>Phone Accessories & Repairs</h3>
+            <p>Wide range of accessories and expert phone repair services.</p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <h2>Contact Us</h2>
+        <p>Phone: +123-456-7890 | Email: info@ckbrandz.com</p>
+        <form>
+            <input type="text" placeholder="Your Name" required>
+            <input type="email" placeholder="Your Email" required>
+            <textarea placeholder="Your Message" required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 CK BRANDZ. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
+
+
+---
